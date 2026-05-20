@@ -1,9 +1,9 @@
-# CosmicGATE-SOL
+# DipGATE-SOL
 
-CosmicGATE-SOL provides Solana blockchain integration for the CosmicGATE.ai ecosystem. It handles interactions with the Solana network, such as smart contracts, token operations, and DePIN-related functionality, written in Rust.
+DipGATE-SOL provides Solana blockchain integration for the DipGATE.ai ecosystem. It handles interactions with the Solana network, such as smart contracts, token operations, and DePIN-related functionality, written in Rust.
 
 ## Overview
-This repository contains Rust-based programs and scripts for Solana blockchain operations, built with the `solana-sdk` and `anchor-lang` frameworks. It integrates with the CosmicGATE platform to enable decentralized applications on Solana.
+This repository contains Rust-based programs and scripts for Solana blockchain operations, built with the `solana-sdk` and `anchor-lang` frameworks. It integrates with the DipGATE platform to enable decentralized applications on Solana.
 
 ## Getting Started
 ### Prerequisites
